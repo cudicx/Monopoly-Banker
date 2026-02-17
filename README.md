@@ -1,7 +1,8 @@
-![Project Logo](lib/media/unnamed.png)
-# Monopoly Banker
+<img src="lib/media/unnamed.png" width="45%">
 
-Monopoly Banker is a mobile application designed to simplify financial transactions for players in the Monopoly game. The app allows players to manage their balances, transfer money, and adjust game settings.
+# Monopara
+
+Monopara is a mobile application designed to simplify financial transactions for players in the Monopoly game. The app allows players to manage their balances, transfer money, and adjust game settings.
 
 ## Features
 - Add and remove players
@@ -49,6 +50,3 @@ Monopoly Banker is a mobile application designed to simplify financial transacti
 
 ## Contributing
 To contribute, please submit a pull request or create an issue.
-
-## License
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
