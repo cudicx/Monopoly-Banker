@@ -39,21 +39,13 @@ Monopoly Banker is a mobile application designed to simplify financial transacti
 
 ## Screenshots
 
-Main screen:
+| Main Screen | Game Setup Screen |
+| :---: | :---: |
+| <img src="screenshots/main_screen.jpg" width="45%"> | <img src="screenshots/setup_screen.jpg" width="45%"> |
 
-![Main Screen](screenshots/main_screen.jpg)
-
-Game setup screen:
-
-![Game Setup Screen](screenshots/setup_screen.jpg)
-
-Player actions screen:
-
-![Player Actions Screen](screenshots/player_actions_screen.jpg)
-
-Game screen:
-
-![Game Screen](screenshots/game_screen.jpg)
+| Player Actions Screen | Game Screen |
+| :---: | :---: |
+| <img src="screenshots/player_actions_screen.jpg" width="45%"> | <img src="screenshots/game_screen.jpg" width="45%"> |
 
 ## Contributing
 To contribute, please submit a pull request or create an issue.
