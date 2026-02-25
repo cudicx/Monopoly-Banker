@@ -21,7 +21,7 @@ Monopara is a mobile application designed to simplify financial transactions for
 ### Steps
 1. Clone this project:
    ```bash
-   git clone https://github.com/username/monopoly_banker.git
+   git clone https://github.com/yessahin/monopoly_banker.git
    cd monopoly_banker
    ```
 2. Install the required dependencies:
